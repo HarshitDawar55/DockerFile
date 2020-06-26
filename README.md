@@ -23,6 +23,8 @@ This Repository contains all information about DockerFile only! To understand th
 
 * Remember in the above command, in folder path, just put the folder path where your docker file is located, do not put the name of the docker file.
 
+**Note: Name of each & every docker file should be exact <i>"Dockerfile"</i> in order to run by the way I explain above, and this is the reason I suggest to make a separate folder for each directory!**
+
 
 # LICENSE for this Repository!
 To check out the License for this Repository please visit [here!](https://github.com/HarshitDawar55/DockerFile/blob/master/LICENSE)
