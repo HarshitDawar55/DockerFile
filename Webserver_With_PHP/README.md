@@ -6,4 +6,6 @@
 
 * The Docker Image will be created on the top of Centos version 7.
 
-*
+* When a container is created using the docker image created after running this Dockerfile, that container will have Webserver running automatically on port 80.
+
+* 
