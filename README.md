@@ -19,7 +19,8 @@ This Repository contains all information about DockerFile only! To understand th
 
 * To run any of the docker file present in this repository, I would suggest that for each docker file create an separate folder.
 
-* 
+* After creating a separate folder for each Docker File, for each of the docker file you want to run, run this command **"docker build -t <image name>:<tag of image>  <path of the folder>"**.
+
 
 
 # LICENSE for this Repository!
