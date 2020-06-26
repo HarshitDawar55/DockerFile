@@ -8,4 +8,6 @@
 
 * When a container is created using the docker image created after running this Dockerfile, that container will have Webserver running automatically on port 80.
 
-* 
+  * When the Webserver is accessed, it will display a webpage which is displayed through a php file created by me!
+
+  *
