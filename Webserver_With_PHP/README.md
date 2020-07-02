@@ -13,3 +13,9 @@
   * Output of the Webpage will contain the IPAddress of the docker container & memory information of the system.
 
 **Note: Instructions to run any of the docker file are mentioned in the main readme file for this repository! If you didn't read that file, then check out the file by clicking [here!](../README.md)**
+
+# Link to the Docker Image created by this Docker File
+
+To check out the Docker Image click [here](https://hub.docker.com/repository/docker/harshitdawar/apache-webserver-and-php)
+
+**Download the Image with tag "latest"**
